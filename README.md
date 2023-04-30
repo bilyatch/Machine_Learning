@@ -25,8 +25,8 @@ Machine learing is the science of programming computer where the machine learns 
 <li>Reinforcement Learning</li>
 </ul>
 
-<h3>Supervised learing </h3>
-<t>A typical supervised learning task is classification.
+<h3>Supervised learning </h3>
+<t>A typical supervised learning task is classification. In Supervised learning data is labeled.
 
 Some of the imp. supervised algorithm 
 <ul style="list-style-type:disc;">
@@ -37,6 +37,34 @@ Some of the imp. supervised algorithm
 <li>Decision Trees and Random Forests</li>
 <li>Neural networks2</li>
 </ul>
+ 
+ <h3>Unsupervised learning</h3>
+ Here, Data is not labeled.
+ Some of the unsupervised algorithm are:
+ <ol>
+ <li> Clustering/li>
+ <ul>
+<li> K-Means</li>
+<li> DBSCAN</li>
+<li> Hierarchical Cluster Analysis (HCA)</li>
+  </ul>
+<li>Anomaly detection and novelty detection</li>
+   <ul>
+<li>One-class SVM</li>
+<li>Isolation Forest</li>
+  </ul>
+<li>Visualization and dimensionality reduction</li>
+     <ul>
+<li>Principal Component Analysis (PCA)</li>
+<li>Kernel PCA</li>
+<li>Locally-Linear Embedding (LLE)</li>
+<li>t-distributed Stochastic Neighbor Embedding (t-SNE)</li>
+<li>Association rule learning</li>
+       </ul>
+       <ul>
+<li>Aprior</li>
+         </ul>
+ 
 
 
 
