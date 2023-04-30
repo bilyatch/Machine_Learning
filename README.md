@@ -90,6 +90,18 @@ Some of the imp. supervised algorithm
     <td>Online learning algorithms take an initial guess model and then pick up one observation from the training population and recalibrate the weights on each input parameter</td>
   </tr>
   </table>
+  
+  <br></br>
+   <table>
+  <tr>
+    <th>nstance-based learning </th>
+    <th> Model-based learning </th>
+  </tr>
+  <tr>
+   <td> In instance-based learning, also known as memory-based learning, the algorithm memorizes the training examples and uses them to make predictions on new data.</td>
+   <td> In contrast, model-based learning aims to learn a generalizable model that can be used to make predictions on new data</td>
+    </tr>
+ </table>
  
 
 
