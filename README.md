@@ -65,6 +65,15 @@ Some of the imp. supervised algorithm
 <li>Aprior</li>
          </ul>
  
+ <h3>Semi-supervised learning</h3>
+  In this learning algorithm we uses little bit of labeled and alot of unlabeled data
+  
+  <h3>Reinforecement learning</h3>
+  This learning algorithm observe the environment,select and perform actions, get reward in return or get negative reward. This learing algorithm should learn itself what's the best strategy for the problem which is called policy.
+  
+  
+  
+ 
 
 
 
