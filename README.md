@@ -94,12 +94,16 @@ Some of the imp. supervised algorithm
   <br></br>
    <table>
   <tr>
-    <th>nstance-based learning </th>
+    <th>Instance-based learning </th>
     <th> Model-based learning </th>
   </tr>
   <tr>
    <td> In instance-based learning, also known as memory-based learning, the algorithm memorizes the training examples and uses them to make predictions on new data.</td>
    <td> In contrast, model-based learning aims to learn a generalizable model that can be used to make predictions on new data</td>
+    </tr>
+    <tr>
+     <td>instance-based learning simply memorizes the training examples</td>
+     <td> Model-based learning aims to learn a generalizable model that can be used to make predictions on new data</td>
     </tr>
  </table>
  
