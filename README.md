@@ -72,7 +72,10 @@ Some of the imp. supervised algorithm
   This learning algorithm observe the environment,select and perform actions, get reward in return or get negative reward. This learing algorithm should learn itself what's the best strategy for the problem which is called policy.
   
   
+  
+  <u>
   <i><h3>Day two </h3></i>
+  </u>
   <table>
   <tr>
     <th>Batch learning </th>
