@@ -72,7 +72,21 @@ Some of the imp. supervised algorithm
   This learning algorithm observe the environment,select and perform actions, get reward in return or get negative reward. This learing algorithm should learn itself what's the best strategy for the problem which is called policy.
   
   
-  
+  <i><h3>Day two </h3></i>
+  <table>
+  <tr>
+    <th>Batch learning </th>
+    <th>Online learning </th>
+  </tr>
+  <tr>
+    <td> In batch learning, data is accumulated over a period of time and the machine learning model is then trained with this accumulated data from time to time in batches</td>
+    <td>Online learning is a method of machine learning where data is processed in real-time as it arrives</td>
+  </tr>
+     <tr>
+    <td>The model is unable to learn incrementally from a stream of live data</td>
+    <td>Online learning algorithms take an initial guess model and then pick up one observation from the training population and recalibrate the weights on each input parameter</td>
+  </tr>
+  </table>
  
 
 
