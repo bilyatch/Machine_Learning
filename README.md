@@ -127,3 +127,7 @@ The main steps that should be followed:
 At this step we need to know our main objective. We need the frame the problem and by framing it we can classify which types of techniques to follow to tackle our problem.
  
  Later we need to select a performance measure
+A typical performance measure for
+regression problems is the Root Mean Square Error (RMSE)
+ ![image](https://user-images.githubusercontent.com/104844487/235459949-a2102f52-d7d3-4ec8-a389-6173bade4cde.png)
+ 
