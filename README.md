@@ -108,7 +108,20 @@ Some of the imp. supervised algorithm
     </tr>
  </table>
  
+<h3>Day three</h3>
+The main steps that should be followed:
+<ol>
+<li>Look at the big picture.</li>
+<li>Get the data</li>
+<li>Discover and visualize the data to gain insights.
+</li>
+<li>Prepare the data for Machine Learning algorithms.</li>
+<li>Select a model and train it.</li>
+<li>Fine-tune your model.
+</li>
+<li>Present your solution.</li>
+<li>Launch, monitor, and maintain your system</li>
+</ol>
 
-
-
-
+<h3>Look at the big picture</h3>
+At this step we need to know our main objective. We need the frame the problem 
