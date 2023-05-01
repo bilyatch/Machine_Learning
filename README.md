@@ -146,7 +146,8 @@ tasks, in some contexts you may prefer to use another function i.e Mean Absolute
  
  <h3>Gradient Descent</h3>
  Gradient descent is used all over the place in machine learning, not just for linear regression, but for training for example some of the most advanced neural network models.  gradient descent is an algorithm that you can use to try to minimize any function.<br>
-<img src="gradiet.png">
+<img src="F:\gradiet.png">
+
 
  
  
