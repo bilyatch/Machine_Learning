@@ -144,4 +144,10 @@ tasks, in some contexts you may prefer to use another function i.e Mean Absolute
  
  Both RMSE and MAE measure the distance between two vectors that is vector of prediction and vector of target values.
  
+ <h3>Gradient Descent</h3>
+ Gradient descent is used all over the place in machine learning, not just for linear regression, but for training for example some of the most advanced neural network models.  gradient descent is an algorithm that you can use to try to minimize any function.<br>
+ ![gradiet](https://user-images.githubusercontent.com/104844487/235464605-c94bf5b2-302a-4a08-b250-d2f7ec3f9739.PNG)<br>
+ 
+ 
+
  
