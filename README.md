@@ -128,6 +128,13 @@ At this step we need to know our main objective. We need the frame the problem a
  
  Later we need to select a performance measure
 A typical performance measure for
-regression problems is the Root Mean Square Error (RMSE)
+regression problems is the Root Mean Square Error (RMSE) which can be compute as:
  ![image](https://user-images.githubusercontent.com/104844487/235459949-a2102f52-d7d3-4ec8-a389-6173bade4cde.png)
- 
+ here,
+ <ul>
+  <li>m is the number of instances in the dataset you are measuring the RMSE on.</li>
+  <li>x<sup>i</sup> is a vector of all the feature values of the i<sup>th</sup> instance in the dataset, and y<sup>i</sup> is its label 
+   <li>RMSE(X,h) is the cost function measured on the set of examples using your
+    hypothesis h.</li>
+ </ul>
+   
