@@ -107,8 +107,8 @@ Some of the imp. supervised algorithm
      <td> Model-based learning aims to learn a generalizable model that can be used to make predictions on new data</td>
     </tr>
  </table>
- 
-<h3>Day three</h3>
+ <i>
+  <h3>Day three</h3></i>
 The main steps that should be followed:
 <ol>
 <li>Look at the big picture.</li>
@@ -123,5 +123,7 @@ The main steps that should be followed:
 <li>Launch, monitor, and maintain your system</li>
 </ol>
 
-<h3>Look at the big picture</h3>
-At this step we need to know our main objective. We need the frame the problem 
+ <h3>Look at the big picture</h3>
+At this step we need to know our main objective. We need the frame the problem and by framing it we can classify which types of techniques to follow to tackle our problem.
+ 
+ Later we need to select a performance measure
