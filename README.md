@@ -151,6 +151,15 @@ tasks, in some contexts you may prefer to use another function i.e Mean Absolute
  <h3>Gradient descent algorithm<h3><br>
 ![image](https://user-images.githubusercontent.com/104844487/235467220-ef021df0-9cb4-4825-8b4b-e443a81a622d.png)
 Here,Alpha is also called the learning rate. The learning rate is usually a small positive number between 0 and 1 and it might be say, 0.01. What Alpha does is, it basically controls how big of a step you take downhill. 
+
+<i><h3>Day four</h3></i>
+<h3>Training Linear Regression</h3><br>
+![image](https://user-images.githubusercontent.com/104844487/235959464-5ccf283f-4460-41a0-9465-85132cf8e9c3.png)<br>
+here when derivative term is positive number then,
+w=w-α.(positive no.),which decreases the value of w 
+but, if the derivative term is negative then,
+w=w-α.(negative no.),which increases the value of w.
+
   
 
 
