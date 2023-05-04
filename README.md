@@ -165,6 +165,8 @@ w=w-α.(negative no.),which increases the value of w.
 In Cost Function,depending on where you initialize the parameters w and b, you can end up at different local minima.
 In Squared Error Cost Function,the cost function does not and will never have multiple local minima. It has a single global minimum because of this bowl-shape.It's a convex function. Which is as show in fig given below:
 ![image](https://user-images.githubusercontent.com/104844487/236116595-1998f177-44ab-456a-a9c1-a5a9a45c6063.png)
+  
+  <img src="reduced costfun.png">
 
 
   
