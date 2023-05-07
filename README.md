@@ -139,8 +139,8 @@ regression problems is the Root Mean Square Error (RMSE) which can be compute as
  </ul>
    
 Even though the RMSE is generally the preferred performance measure for regression
-tasks, in some contexts you may prefer to use another function i.e Mean Absolute Error( also called the Average Absolute Deviation)<br>
-![image](https://user-images.githubusercontent.com/104844487/235461861-db5c376a-cfe7-457b-9702-9dff8c83b4a1.png)<br>
+tasks, in some contexts you may prefer to use another function i.e Mean Absolute Error( also called the Average Absolute Deviation)
+![image](https://user-images.githubusercontent.com/104844487/235461861-db5c376a-cfe7-457b-9702-9dff8c83b4a1.png)
  
  Both RMSE and MAE measure the distance between two vectors that is vector of prediction and vector of target values.
  
