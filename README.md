@@ -170,7 +170,8 @@ In Squared Error Cost Function,the cost function does not and will never have mu
   <h4>Multi features</h4>
  Linear regression that look at not just one feature, but a lot of different features.<br>
 ![image](https://user-images.githubusercontent.com/104844487/236664860-f8156105-8143-489e-a7fc-c7fac9005428.png)<br>
- The name for this type of linear regression model with multiple input features is multiple linear regression.
+ The name for this type of linear regression model with multiple input features is multiple linear regression.<br>
+  
 
 
   
