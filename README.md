@@ -166,6 +166,11 @@ In Cost Function,depending on where you initialize the parameters w and b, you c
 In Squared Error Cost Function,the cost function does not and will never have multiple local minima. It has a single global minimum because of this bowl-shape.It's a convex function. Which is as show in fig given below:
 ![image](https://user-images.githubusercontent.com/104844487/236116595-1998f177-44ab-456a-a9c1-a5a9a45c6063.png)
   
+  <i><h3>Day five</h3></i>
+  <h4>Multi features</h4>
+ Linear regression that look at not just one feature, but a lot of different features.<br>
+![image](https://user-images.githubusercontent.com/104844487/236664860-f8156105-8143-489e-a7fc-c7fac9005428.png)<br>
+ The name for this type of linear regression model with multiple input features is multiple linear regression.
 
 
   
