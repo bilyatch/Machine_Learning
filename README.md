@@ -149,7 +149,7 @@ tasks, in some contexts you may prefer to use another function i.e Mean Absolute
 (https://github.com/bilyatch/Machine_Learning/blob/main/photos/reduced%20funciton.png?raw=true)<br>
  
  <h3>Gradient descent algorithm<h3><br>
-
+https://github.com/bilyatch/Machine_Learning/blob/main/photos/gradientdescent_algo.PNG?raw=true
 Here,Alpha is also called the learning rate. The learning rate is usually a small positive number between 0 and 1 and it might be say, 0.01. What Alpha does is, it basically controls how big of a step you take downhill. 
 
 <i><h3>Day four</h3></i>
