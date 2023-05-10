@@ -177,7 +177,8 @@ In Squared Error Cost Function,the cost function does not and will never have mu
   <b>f=np.dot(w,x)+b</b> <br>
   
   <h4>Gradient descent for multiple linear regression</h4>
-  photos/gradientdescentwithmultiplelinearreagreassion.PNG
+  ![image](https://github.com/bilyatch/Machine_Learning/assets/104844487/a6e66fe3-b8d3-43a2-80d4-fa678de0bac5)
+
   
  
   
