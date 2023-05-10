@@ -172,6 +172,11 @@ In Squared Error Cost Function,the cost function does not and will never have mu
 ![image](https://user-images.githubusercontent.com/104844487/236664860-f8156105-8143-489e-a7fc-c7fac9005428.png)<br>
  The name for this type of linear regression model with multiple input features is multiple linear regression.<br>
   
+  <h4>Vectorization</h4>
+ When you're implementing a learning algorithm, using vectorization will both make your code shorter and also make it run much more efficiently. NumPy dot function is a vectorized implementation of the dot product operation between two vectors and especially when n is large, this will run much faster that's written as :<br>
+<t>  f=np.dot(w,x)+b <br>
+ 
+  
 
 
   
