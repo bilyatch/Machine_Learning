@@ -128,8 +128,8 @@ At this step we need to know our main objective. We need the frame the problem a
  
  Later we need to select a performance measure
 A typical performance measure for
-regression problems is the Root Mean Square Error (RMSE) which can be compute as:
- ![image](https://user-images.githubusercontent.com/104844487/235459949-a2102f52-d7d3-4ec8-a389-6173bade4cde.png)
+regression problems is the Root Mean Square Error (RMSE) which can be compute as:<br>
+ <img src="https://user-images.githubusercontent.com/104844487/235459949-a2102f52-d7d3-4ec8-a389-6173bade4cde.png"><br>
  here,
  <ul>
   <li>m is the number of instances in the dataset you are measuring the RMSE on.</li>
@@ -139,45 +139,44 @@ regression problems is the Root Mean Square Error (RMSE) which can be compute as
  </ul>
    
 Even though the RMSE is generally the preferred performance measure for regression
-tasks, in some contexts you may prefer to use another function i.e Mean Absolute Error( also called the Average Absolute Deviation)
-![image](https://user-images.githubusercontent.com/104844487/235461861-db5c376a-cfe7-457b-9702-9dff8c83b4a1.png)
+tasks, in some contexts you may prefer to use another function i.e Mean Absolute Error( also called the Average Absolute Deviation)<br>
+ <img src="https://user-images.githubusercontent.com/104844487/235461861-db5c376a-cfe7-457b-9702-9dff8c83b4a1.png"><br>
  
  Both RMSE and MAE measure the distance between two vectors that is vector of prediction and vector of target values.
  
  <h3>Gradient Descent</h3>
  Gradient descent is used all over the place in machine learning, not just for linear regression, but for training for example some of the most advanced neural network models.  gradient descent is an algorithm that you can use to try to minimize any function.<br>
-(https://github.com/bilyatch/Machine_Learning/blob/main/photos/reduced%20funciton.png?raw=true)<br>
+ <img src="https://github.com/bilyatch/Machine_Learning/blob/main/photos/reduced%20funciton.png"><br>
  
  <h3>Gradient descent algorithm<h3><br>
-![image](https://github.com/bilyatch/Machine_Learning/blob/main/photos/gradientdescent_algo.PNG)
+  <img src="https://github.com/bilyatch/Machine_Learning/blob/main/photos/gradientdescent_algo.PNG"><br>
 Here,Alpha is also called the learning rate. The learning rate is usually a small positive number between 0 and 1 and it might be say, 0.01. What Alpha does is, it basically controls how big of a step you take downhill. 
 
 <i><h3>Day four</h3></i>
 <h3>Training Linear Regression</h3><br>
-![image](https://user-images.githubusercontent.com/104844487/235959464-5ccf283f-4460-41a0-9465-85132cf8e9c3.png)<br>
+  <img src="https://user-images.githubusercontent.com/104844487/235959464-5ccf283f-4460-41a0-9465-85132cf8e9c3.png"><br>
 here when derivative term is positive number then,
 w=w-α.(positive no.),which decreases the value of w 
 but, if the derivative term is negative then,
 w=w-α.(negative no.),which increases the value of w.
 
 <h3>Gradient descent for linear alogorithm</h3>
-![image](https://user-images.githubusercontent.com/104844487/236116086-9357383c-b643-43f1-ad90-e30fa83e8d97.png)
+ <img src="https://user-images.githubusercontent.com/104844487/236116086-9357383c-b643-43f1-ad90-e30fa83e8d97.png"><br>
 In Cost Function,depending on where you initialize the parameters w and b, you can end up at different local minima.
-In Squared Error Cost Function,the cost function does not and will never have multiple local minima. It has a single global minimum because of this bowl-shape.It's a convex function. Which is as show in fig given below:
-![image](https://user-images.githubusercontent.com/104844487/236116595-1998f177-44ab-456a-a9c1-a5a9a45c6063.png)
-  
+In Squared Error Cost Function,the cost function does not and will never have multiple local minima. It has a single global minimum because of this bowl-shape.It's a convex function. Which is as show in fig given below:<br>
+  <img src="https://user-images.githubusercontent.com/104844487/236116595-1998f177-44ab-456a-a9c1-a5a9a45c6063.png">
+
   <i><h3>Day five</h3></i>
   <h4>Multi features</h4>
  Linear regression that look at not just one feature, but a lot of different features.<br>
-![image](https://user-images.githubusercontent.com/104844487/236664860-f8156105-8143-489e-a7fc-c7fac9005428.png)<br>
- The name for this type of linear regression model with multiple input features is multiple linear regression.<br>
+   <img src="https://user-images.githubusercontent.com/104844487/236664860-f8156105-8143-489e-a7fc-c7fac9005428.png" >
   
   <h4>Vectorization</h4>
  When you're implementing a learning algorithm, using vectorization will both make your code shorter and also make it run much more efficiently. NumPy dot function is a vectorized implementation of the dot product operation between two vectors and especially when n is large, this will run much faster that's written as :<br>
   <b>f=np.dot(w,x)+b</b> <br>
   
   <h4>Gradient descent for multiple linear regression</h4>
-  ![Alt Gradient descent for multiple linear regreassion](photos/gradientdescentwithmultiplelinearreagreassion.PNG)
+ <img src="https://github.com/bilyatch/Machine_Learning/blob/6342c29e655a407438aab738e63f1f50381e276a/photos/gradientdescentwithmultiplelinearreagreassion.PNG" >
   
 
   
