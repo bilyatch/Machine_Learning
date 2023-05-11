@@ -194,6 +194,13 @@ if x_1 ranges from 3 > x_1 > 2,000<br>
   One way to get a scale version of x_1 is to take each original <b> x1_ value and divide by 2,000 </b>, the maximum of the range i.e<br>
   <b>(3/2000) > x_1 > (2000/2000)</b><br>
   The scale x_1 will range from <b>0.15 > x_1 > 1</b>.
+  <br>
+  <br>
+  <h4><b>Mean Normalization</b></h4>
+  formula: <br>
+  <img src="https://github.com/bilyatch/Machine_Learning/assets/104844487/a927e954-4ff4-42a7-acf3-b12631f0505a"><br>
+  
+
   
 
  
