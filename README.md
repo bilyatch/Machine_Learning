@@ -189,6 +189,11 @@ In Squared Error Cost Function,the cost function does not and will never have mu
  So if we rescale x1 and x2 and now are both taking comparable ranges of values to each other. And if you run gradient descent on a cost function to find on this, rescaled x1 and x2 using this transformed data, then the contours will look more like this more like circles and less tall and skinny. And gradient descent can find a much more direct path to the global minimum as given below:<br>
   <img src="https://github.com/bilyatch/Machine_Learning/assets/104844487/5813fa89-9ea6-4aa1-9331-6714f6e104a0"><br>
 
+  Lets consider:<br>
+if x_1 ranges from 3 > x_1 > 2,000<br>
+  One way to get a scale version of x_1 is to take each original <b> x1_ value and divide by 2,000 </b>, the maximum of the range i.e<br>
+  <b>(3/2000) > x_1 > (2000/2000)</b><br>
+  The scale x_1 will range from <b>0.15 > x_1 > 1</b>.
   
 
  
