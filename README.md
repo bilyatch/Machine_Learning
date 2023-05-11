@@ -200,7 +200,23 @@ if x_1 ranges from 3 > x_1 > 2,000<br>
   formula: <br>
   <img src="https://github.com/bilyatch/Machine_Learning/assets/104844487/a927e954-4ff4-42a7-acf3-b12631f0505a"><br>
   
-
+  <h4><b>Z score normalization</b></h4>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuvlurKfnbEQWq0MujE2OwIgVTQzp-rCq9CQ&usqp=CAU"><br>
+  <br>
+  <br>
+  acceptable scale ranges:<br>
+  -1 ≤ x ≤ 1 <br>
+  -3 ≤ x ≤ 3 <br>
+  -0.3 ≤ x ≤ 0.3, It's okay, no rescaling is needed<br>
+  0 ≤ x ≤ 3, It's also okay, no rescaling is needed <br>
+  -2 ≤ x ≤ 0.5, It's also okay, no rescaling is needed <br>
+  but,<br>
+  -100 ≤ x ≤ 100 ,It's too large, so rescaling is needed <br>
+  -0.001 ≤ x ≤ +0.001, It's too small, so rescaling is needed <br>
+  76.23 ≤ x ≤ 230, It's too large, so rescaling is needed <br>
+  
+  
+  
   
 
  
