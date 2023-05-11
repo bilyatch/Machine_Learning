@@ -181,8 +181,18 @@ In Squared Error Cost Function,the cost function does not and will never have mu
 
   <i><h3>Day six</h3></i>
   <h4>Feature scaling</h4>
-  A technique called feature scaling that will enable gradient descent to run much faster. If w1 tends to be multiplied by a very large number. In contrast, it takes a much larger change in w2 in order to change the predictions much. And thus small changes to w2, don't change the cost function nearly as much. So This is what might end up happening if you were to run great in discent, if you were to use your training data as is. Because the contours are so tall and skinny gradient descent may end up bouncing back and forth for a long time before it can finally find its way to the global minimum. Like given in fig. below<br>
-  <img src="![image](https://github.com/bilyatch/Machine_Learning/assets/104844487/81778a38-8aeb-43fe-a05b-ababc0cd94f4)"><br>
+  A technique called feature scaling that will enable gradient descent to run much faster.<br>
+  If the given feature and parameters are:<br>
+   <img src="https://github.com/bilyatch/Machine_Learning/assets/104844487/81778a38-8aeb-43fe-a05b-ababc0cd94f4"><br>
+ Here, w1 tends to be multiplied by a very large number. In contrast, it takes a much larger change in w2 in order to change the predictions much. And thus small changes to w2, don't change the cost function nearly as much. So This is what might end up happening if you were to run great in discent, if you were to use your training data as is. Because the contours are so tall and skinny gradient descent may end up bouncing back and forth for a long time before it can finally find its way to the global minimum. Like given in fig. below<br>
+  <img src="(https://github.com/bilyatch/Machine_Learning/assets/104844487/775b6868-ab2f-43e5-b2cb-780b18558301)"><br>
+ So if we rescale x1 and x2 and now are both taking comparable ranges of values to each other. And if you run gradient descent on a cost function to find on this, rescaled x1 and x2 using this transformed data, then the contours will look more like this more like circles and less tall and skinny. And gradient descent can find a much more direct path to the global minimum as given below:<br>
+  <img src="(https://github.com/bilyatch/Machine_Learning/assets/104844487/5813fa89-9ea6-4aa1-9331-6714f6e104a0)"><br>
+
+  
+
+ 
+  
   
   
  
