@@ -2,7 +2,7 @@
 
 I'm gonna learn new thing related to ML and update you guys on a daily note
 
-<i><b><h3>Day one</h2></b></i>
+<ins><i><b><h3>Day one</h2></b></i></ins>
 <h2>Fundamental of Machine Learning</h2>
 <t> Here I've learned about Machine learning, use of it and types of ML system
 <h3>Machine Learning</h3>
