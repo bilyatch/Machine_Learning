@@ -2,7 +2,7 @@
 
 I'm gonna learn new thing related to ML and update you guys on a daily note
 
-<i><u><h3>Day one</h2></u></i>
+<i><b><h3>Day one</h2></b></i>
 <h2>Fundamental of Machine Learning</h2>
 <t> Here I've learned about Machine learning, use of it and types of ML system
 <h3>Machine Learning</h3>
@@ -75,7 +75,7 @@ Some of the imp. supervised algorithm
   
   
   <u>
-  <i><h3>Day two </h3></i>
+   <i><b><h3>Day two </h3></b></i>
   </u>
   <table>
   <tr>
@@ -108,7 +108,7 @@ Some of the imp. supervised algorithm
     </tr>
  </table>
  <i>
-  <h3>Day three</h3></i>
+  <i><b><h3>Day three</h3></b></i>
 The main steps that should be followed:
 <ol>
 <li>Look at the big picture.</li>
@@ -152,7 +152,7 @@ tasks, in some contexts you may prefer to use another function i.e Mean Absolute
   <img src="https://github.com/bilyatch/Machine_Learning/blob/main/photos/gradientdescent_algo.PNG"><br>
 Here,Alpha is also called the learning rate. The learning rate is usually a small positive number between 0 and 1 and it might be say, 0.01. What Alpha does is, it basically controls how big of a step you take downhill. 
 
-<i><h3>Day four</h3></i>
+  <i><b><h3>Day four</h3></b></i>
 <h3>Training Linear Regression</h3><br>
   <img src="https://user-images.githubusercontent.com/104844487/235959464-5ccf283f-4460-41a0-9465-85132cf8e9c3.png"><br>
 here when derivative term is positive number then,
@@ -166,7 +166,7 @@ In Cost Function,depending on where you initialize the parameters w and b, you c
 In Squared Error Cost Function,the cost function does not and will never have multiple local minima. It has a single global minimum because of this bowl-shape.It's a convex function. Which is as show in fig given below:<br>
   <img src="https://user-images.githubusercontent.com/104844487/236116595-1998f177-44ab-456a-a9c1-a5a9a45c6063.png">
 
-  <i><h3>Day five</h3></i>
+  <i><b><h3>Day five</h3></b></i>
   <h4>Multi features</h4>
  Linear regression that look at not just one feature, but a lot of different features.<br>
    <img src="https://user-images.githubusercontent.com/104844487/236664860-f8156105-8143-489e-a7fc-c7fac9005428.png" >
@@ -179,7 +179,7 @@ In Squared Error Cost Function,the cost function does not and will never have mu
  <img src="https://github.com/bilyatch/Machine_Learning/blob/6342c29e655a407438aab738e63f1f50381e276a/photos/gradientdescentwithmultiplelinearreagreassion.PNG" >
   
 
-  <i><h3>Day six</h3></i>
+  <i><b><h3>Day six</h3></b></i>
   <h4>Feature scaling</h4>
   A technique called feature scaling that will enable gradient descent to run much faster.<br>
   If the given feature and parameters are:<br>
@@ -216,6 +216,7 @@ if x_1 ranges from 3 > x_1 > 2,000<br>
   76.23 ≤ x ≤ 230, It's too large, so rescaling is needed <br>
   
   
+ <i> <b><h3>Day seven</h3><b></i>
   
   
 
