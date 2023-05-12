@@ -216,9 +216,9 @@ if x_1 ranges from 3 > x_1 > 2,000<br>
   76.23 ≤ x ≤ 230, It's too large, so rescaling is needed <br>
   
   
- <i> <b><h3>Day seven</h3><b></i>
+ <i><b><h3>Day seven</h3><b></i>
   <h4>Choosing the learning rate<h4>
-   Choosing learning rates is an important part of training many learning algorithms. Your learning algorithm will run much better with an appropriate choice of learning rate. If it's too small, it will run very slowly and if it is too large, it may not even converge.
+  Choosing learning rates is an important part of training many learning algorithms. Your learning algorithm will run much better with an appropriate choice of learning rate. If it's too small, it will run very slowly and if it is too large, it may not even converge.
   
 
  
