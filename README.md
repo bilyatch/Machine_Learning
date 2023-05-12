@@ -107,7 +107,8 @@ Some of the imp. supervised algorithm
      <td> Model-based learning aims to learn a generalizable model that can be used to make predictions on new data</td>
     </tr>
  </table>
- <i>
+ 
+ 
   <i><b><h3>Day three</h3></b></i>
 The main steps that should be followed:
 <ol>
