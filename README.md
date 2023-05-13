@@ -225,10 +225,10 @@ if x_1 ranges from 3 > x_1 > 2,000<br>
    
    <img src="https://github.com/bilyatch/Machine_Learning/assets/104844487/5344dcc4-88a0-4102-ac64-992eade58cce"><br>
    
-
+  <i><b><h3>Day eight</h3></b></i>
+  <h4>Feature Engineering</h4>
   
-
- 
+Feature engineering, in which we might use out knowledge or intuition about the problem to design new features usually by transforming or combining the original features of the problem in order to make it easier for the learning algorithm to make accurate predictions. Depending on what insights we may have into the application, rather than just taking the features that we happen to have started off with sometimes by defining new features, we might be able to get a much better model. That's feature engineering.<br>
   
   
   
