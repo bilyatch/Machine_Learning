@@ -234,7 +234,11 @@ Feature engineering, in which we might use out knowledge or intuition about the 
   Classification where your output variable y can take on only one of a small handful of possible values instead of any number in an infinite range of numbers. It turns out that linear regression is not a good algorithm for classification problems. Classification problem where there are only two possible outputs is called binary classification.<br>
   
   <h4>Logistic Regression</h4>
- Logistic regression is a data analysis technique that uses mathematics to find the relationships between two data factors. It then uses this relationship to predict the value of one of those factors based on the other. The prediction usually has a finite number of outcomes, like yes or no.<br>
+ Logistic regression is a data analysis technique that uses mathematics to find the relationships between two data factors. It then uses this relationship to predict the value of one of those factors based on the other. The prediction usually has a finite number of outcomes, like yes or no. To build out to the logistic regression algorithm, there's an important mathematical function which is called the Sigmoid function, sometimes also referred to as the logistic function.<br>
+  <img src="https://github.com/bilyatch/Machine_Learning/assets/104844487/8596fcff-bf1b-484b-95ef-cb299a0193dc"><br>
+  <img src="https://github.com/bilyatch/Machine_Learning/assets/104844487/ca32bec2-5c71-40e7-aadd-3420834d0033"><br>
+
+
   
   
   
