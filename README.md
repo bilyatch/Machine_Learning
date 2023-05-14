@@ -230,6 +230,13 @@ if x_1 ranges from 3 > x_1 > 2,000<br>
   
 Feature engineering, in which we might use out knowledge or intuition about the problem to design new features usually by transforming or combining the original features of the problem in order to make it easier for the learning algorithm to make accurate predictions. Depending on what insights we may have into the application, rather than just taking the features that we happen to have started off with sometimes by defining new features, we might be able to get a much better model. That's feature engineering.<br>
   
+  <h4>Classification</h4>
+  Classification where your output variable y can take on only one of a small handful of possible values instead of any number in an infinite range of numbers. It turns out that linear regression is not a good algorithm for classification problems. Classification problem where there are only two possible outputs is called binary classification.<br>
+  
+  <h4>Logistic Regression</h4>
+ Logistic regression is a data analysis technique that uses mathematics to find the relationships between two data factors. It then uses this relationship to predict the value of one of those factors based on the other. The prediction usually has a finite number of outcomes, like yes or no.<br>
+  
+  
   
   
  
