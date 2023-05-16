@@ -247,6 +247,14 @@ Feature engineering, in which we might use out knowledge or intuition about the 
  <br>
   <img src="https://github.com/bilyatch/Machine_Learning/assets/104844487/e46f2206-13e8-4719-9abe-e16e91536721"><br>
   
+  <h3>Gradient Descent for logistic regression</h3>
+  The Gradient descent for the logistic regression is different from logical regression since the f<sub>w,b</sub>(x) is different which is:<br>
+  𝑓𝐰,𝑏(𝑥)=𝑔(𝑧)<br>
+  where  𝑔(𝑧)<br>
+  is the sigmoid function:<br>
+  𝑔(𝑧)=(1/1+𝑒<sup>−𝑧</sup>)<br>
+ 
+  
 
   
 
