@@ -243,6 +243,7 @@ Feature engineering, in which we might use out knowledge or intuition about the 
   We now know that the cost function gives you a way to measure how well a specific set of parameters fits the training data. Thereby gives you a way to try to choose better parameters. Recalling the linear regression cost function, cost function looks a convex function or a bowl shape or hammer shape. Gradient descent converge at the global minimum.<br>
   Likewise if we try to use the same cost function as it was in linear regression then the cost function will not be a convex what's called a non-convex cost function and if we try to use gradient descent then we find a lots of local minima. So, For logistic regression Squared Error Cost is not a good choice. <br.
   Therefore, For the logistic regression the new cost function to make work on logistic regression will be:<br>
+ <br>
   <img src="https://github.com/bilyatch/Machine_Learning/assets/104844487/e46f2206-13e8-4719-9abe-e16e91536721"><br>
   
 
