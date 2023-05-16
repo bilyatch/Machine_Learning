@@ -252,7 +252,7 @@ Feature engineering, in which we might use out knowledge or intuition about the 
   𝑓<sub>𝐰,𝑏</sub>(𝑥)=𝑔(𝑧)<br>
   where  𝑔(𝑧)<br>
   is the sigmoid function:<br>
-  𝑔(𝑧)=(1/1+𝑒<sup>−𝑧</sup>)<br>
+  𝑔(𝑧)=(1/(1+𝑒<sup>−𝑧</sup>))<br>
  
   
 
