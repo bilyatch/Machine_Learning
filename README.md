@@ -237,6 +237,16 @@ Feature engineering, in which we might use out knowledge or intuition about the 
  Logistic regression is a data analysis technique that uses mathematics to find the relationships between two data factors. It then uses this relationship to predict the value of one of those factors based on the other. The prediction usually has a finite number of outcomes, like yes or no. To build out to the logistic regression algorithm, there's an important mathematical function which is called the Sigmoid function, sometimes also referred to as the logistic function.<br>
   <img src="https://github.com/bilyatch/Machine_Learning/assets/104844487/8596fcff-bf1b-484b-95ef-cb299a0193dc"><br>
   <img src="https://github.com/bilyatch/Machine_Learning/assets/104844487/ca32bec2-5c71-40e7-aadd-3420834d0033"><br>
+  
+  <i><b><h3>Day eigth</h3></b></i>
+  <h4>Cost function for logistic regression</h4>
+  We now know that the cost function gives you a way to measure how well a specific set of parameters fits the training data. Thereby gives you a way to try to choose better parameters. Recalling the linear regression cost function, cost function looks a convex function or a bowl shape or hammer shape. Gradient descent converge at the global minimum.<br>
+  Likewise if we try to use the same cost function as it was in linear regression then the cost function will not be a convex what's called a non-convex cost function and if we try to use gradient descent then we find a lots of local minima. So, For logistic regression Squared Error Cost is not a good choice. <br.
+  Therefore, For the logistic regression the new cost function to make work on logistic regression will be:<br>
+  <img src="https://github.com/bilyatch/Machine_Learning/assets/104844487/e46f2206-13e8-4719-9abe-e16e91536721"><br>
+  
+
+  
 
 
   
