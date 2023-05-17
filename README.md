@@ -254,8 +254,9 @@ Feature engineering, in which we might use out knowledge or intuition about the 
   is the sigmoid function:<br>
   𝑔(𝑧)=(1/(1+𝑒<sup>−𝑧</sup>))<br>
  
-  <h4>Problem of Overfitting</h4>
-  The problem of overfitting in data analysis occurs when a predictive model becomes too complex or specific to the training data it was developed on, to the point where it fails to generalize well to new, unseen data. Overfitting is a common challenge in machine learning and statistical modeling, and it can lead to poor performance and inaccurate predictions.<br>
+  <h4>Problem of Overfitting and Underfitting</h4>
+  The problem of <b>overfitting</b> in data analysis occurs when a predictive model becomes too complex or specific to the training data it was developed on, to the point where it fails to generalize well to new, unseen data. Overfitting is a common challenge in machine learning and statistical modeling, and it can lead to poor performance and inaccurate predictions.<br>
+  The problem of <b>underfitting</b> in data analysis occurs when a predictive model is too simple or lacks complexity to capture the underlying patterns and relationships present in the data. Unlike overfitting, underfitting occurs when the model fails to adequately learn from the training data, leading to poor performance and low predictive power.
 There are several consequences of overfitting:<br>
   <ol>
    <li>Poor generalization</li>
@@ -273,8 +274,10 @@ There are several consequences of overfitting:<br>
    <li>Increasing data size</li>
    <li>Early stopping</li>
   </ol>
+  <br>
+  <img src="https://github.com/bilyatch/Machine_Learning/assets/104844487/416f019b-2a44-4f95-9162-40ba84b830a1"><br>
   
-  <img src="https://github.com/bilyatch/Machine_Learning/assets/104844487/416f019b-2a44-4f95-9162-40ba84b830a1">
+  
 
 
 
