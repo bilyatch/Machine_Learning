@@ -255,27 +255,10 @@ Feature engineering, in which we might use out knowledge or intuition about the 
   𝑔(𝑧)=(1/(1+𝑒<sup>−𝑧</sup>))<br>
  
   <h4>Problem of Overfitting and Underfitting</h4>
-  The problem of <b>overfitting</b> in data analysis occurs when a predictive model becomes too complex or specific to the training data it was developed on, to the point where it fails to generalize well to new, unseen data. Overfitting is a common challenge in machine learning and statistical modeling, and it can lead to poor performance and inaccurate predictions.<br>
-  The problem of <b>underfitting</b> in data analysis occurs when a predictive model is too simple or lacks complexity to capture the underlying patterns and relationships present in the data. Unlike overfitting, underfitting occurs when the model fails to adequately learn from the training data, leading to poor performance and low predictive power.
-There are several consequences of overfitting:<br>
-  <ol>
-   <li>Poor generalization</li>
-   <li>High variance</li>
-   <li>Loss of interpretability</li>
-   <li>Increased risk of false discoveries</li>
-   <li>Poor generalization</li>
-   <li>Poor generalization</li>
-  </ol>
- And to address the overfitting we will apply various techniques like:<br>
-  <ol>
-   <li>Regularization</li>
-   <li>Cross-validation</li>
-   <li>Feature selection</li>
-   <li>Increasing data size</li>
-   <li>Early stopping</li>
-  </ol>
-  <br>
+  The problem of <b>overfitting</b> in data analysis occurs when a predictive model becomes too complex or specific to the training data it was developed on, to the point where it fails to generalize well to new, unseen data. Overfitting is a common challenge in machine learning and statistical modeling, and it can lead to poor performance and inaccurate predictions. They couldn't end up with totally different predictions or highly variable predictions. That's why we say the algorithm has high variance.<br><br>
+    The problem of <b>underfitting</b> in data analysis occurs when a predictive model is too simple or lacks complexity to capture the underlying patterns and relationships present in the data. Unlike overfitting, underfitting occurs when the model fails to adequately learn from the training data, leading to poor performance and low predictive power. There can be a clear pattern in the training data that the algorithm is just unable to capture. Another way to think of this form of bias is as if the learning algorithm has a very strong preconception, or we say a very strong bias<br><br>
   <img src="https://github.com/bilyatch/Machine_Learning/assets/104844487/416f019b-2a44-4f95-9162-40ba84b830a1"><br>
+  
   
   
 
