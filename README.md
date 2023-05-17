@@ -245,7 +245,7 @@ Feature engineering, in which we might use out knowledge or intuition about the 
   Likewise if we try to use the same cost function as it was in linear regression then the cost function will not be a convex what's called a non-convex cost function and if we try to use gradient descent then we find a lots of local minima. So, For logistic regression Squared Error Cost is not a good choice. <br>
   Therefore, For the logistic regression the new cost function to make work on logistic regression will be:<br>
  <br>
-  <img src="https://github.com/bilyatch/Machine_Learning/assets/104844487/e46f2206-13e8-4719-9abe-e16e91536721" style="float: center;" width="400" height="200"><br>
+  <img src="https://github.com/bilyatch/Machine_Learning/assets/104844487/e46f2206-13e8-4719-9abe-e16e91536721" style="float: center;" width="400" height="150"><br>
   
   <h3>Gradient Descent for logistic regression</h3>
   The Gradient descent for the logistic regression is different from logical regression since the f<sub>w,b</sub>(x) is different which is:<br>
