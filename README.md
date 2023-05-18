@@ -270,7 +270,10 @@ Feature engineering, in which we might use out knowledge or intuition about the 
   </ol>
   
   
-  
+  '<h4>Reguralization </h4>
+  <img src="https://github.com/bilyatch/Machine_Learning/assets/104844487/be020928-56df-48a1-b2d8-295241b6891e" style="float:right;" width="500" heigth="200">
+
+
   
 
 
