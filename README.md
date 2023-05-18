@@ -271,7 +271,15 @@ Feature engineering, in which we might use out knowledge or intuition about the 
   
   
   '<h4>Reguralization </h4>
-  <img src="https://github.com/bilyatch/Machine_Learning/assets/104844487/be020928-56df-48a1-b2d8-295241b6891e" style="float:right;" width="500" heigth="200">
+  Regularization is a technique used to address the problem of overfitting in machine learning models. Overfitting occurs when a model learns the training data too well, to the point where it performs poorly on unseen data. Regularization helps to prevent overfitting by adding a penalty term to the model's loss function, discouraging complex or large parameter values. <br>
+  The cost function of the regularized cost is given below:<br>
+  <img src="https://github.com/bilyatch/Machine_Learning/assets/104844487/be020928-56df-48a1-b2d8-295241b6891e" style="float:right;" width="500" heigth="200"><br>
+  
+  <h4>Regularized in linear regression</h4>
+  <img src="https://github.com/bilyatch/Machine_Learning/assets/104844487/cd7e2d2d-56e1-4bd4-85ec-5b650ad980fe" width="800"
+       heigth="400"><br>
+
+
 
 
   
