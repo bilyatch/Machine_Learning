@@ -294,8 +294,27 @@ we have a neural network with three layers: an input layer, a hidden layer, and 
   <br>
 <b>Output Layer:</b> The output layer consists of one neurons that produce the final output of the neural network. These neurons combine the information from the hidden layer and generate the desired output.<br>
   
-<img src="https://github.com/bilyatch/Machine_Learning/assets/104844487/679f1d8f-a737-44f5-934b-bead0598649c">
+<img src="https://github.com/bilyatch/Machine_Learning/assets/104844487/679f1d8f-a737-44f5-934b-bead0598649c"><br>
+  <br>
+  
+  <h3>Recognizing Images</h3>
+When it comes to image identification, neural networks excel at learning and recognizing patterns in visual data. Here's a general overview of how a neural network works for image identification:<br><br>
 
+Data Preparation: The first step is to prepare the data for training the neural network. This involves collecting a labeled dataset of images, where each image is associated with a specific class or category (e.g., cat, dog, car).<br><br>
+
+Network Architecture: Designing the neural network architecture is the next step. Typically, convolutional neural networks (CNNs) are used for image identification tasks. CNNs are specialized for processing grid-like data, such as images, by using convolutional layers to extract local features and pooling layers to downsample the data.<br><br>
+
+Training: The neural network is trained using the labeled dataset. During training, the network adjusts its internal parameters (weights and biases) based on the input images and their corresponding labels. The process involves forward propagation, where the input image is passed through the network, and the output is compared to the expected output. The error between the predicted and expected output is then used to update the network's parameters through backpropagation.<br><br>
+
+Feature Extraction: The convolutional layers in the network extract various features from the input image at different levels of abstraction. The initial layers capture low-level features like edges, textures, and colors, while deeper layers learn more complex features like shapes and object parts.<br><br>
+
+Classification: The extracted features are fed into fully connected layers, which learn to classify the image based on the extracted information. The output layer consists of neurons, each representing a specific class or category. The neuron with the highest activation indicates the predicted class of the input image.<br><br>
+
+Prediction: Once the neural network is trained, it can be used for image identification on unseen images. The input image is passed through the network, and the network produces a probability distribution over the possible classes. The class with the highest probability is considered the predicted label for the image.<br><br>
+
+Fine-tuning and Optimization: Fine-tuning techniques, such as regularization and optimization algorithms, can be applied to improve the network's performance and generalize well to new, unseen images.<br><br>
+
+By repeatedly adjusting the network's parameters based on the training data, the neural network learns to recognize visual patterns and becomes capable of accurately identifying images from different classes.<br>
 
 
   
