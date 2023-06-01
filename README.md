@@ -278,7 +278,7 @@ Feature engineering, in which we might use out knowledge or intuition about the 
   <h4>Regularized in linear regression</h4>
   <img src="https://github.com/bilyatch/Machine_Learning/assets/104844487/cd7e2d2d-56e1-4bd4-85ec-5b650ad980fe" width="800"
        heigth="400"><br>
-
+<br>
 
 
   <h2>Neural Network</h2>
