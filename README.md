@@ -281,7 +281,10 @@ Feature engineering, in which we might use out knowledge or intuition about the 
 
 
 
-
+  <h2>Neural Network</h2>
+  <br>
+  <h3><b><i>Demand prediction</i></b></h3>
+  
   
 
 
