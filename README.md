@@ -291,6 +291,7 @@ we have a neural network with three layers: an input layer, a hidden layer, and 
 <b>Hidden Layer:</b> The hidden layer, in this case, consists of three neurons. These neurons perform calculations based on the input data and apply mathematical transformations to produce intermediate representations.<br>
 <b>Output Layer:</b> The output layer consists of one neurons that produce the final output of the neural network. These neurons combine the information from the hidden layer and generate the desired output.<br>
   
+<img src="https://github.com/bilyatch/Machine_Learning/assets/104844487/679f1d8f-a737-44f5-934b-bead0598649c">
 
 
 
