@@ -287,8 +287,11 @@ Feature engineering, in which we might use out knowledge or intuition about the 
   A neural network is a computational model inspired by the structure and function of the human brain. It consists of interconnected artificial neurons, organized into layers, that process and transmit information. Each neuron takes input, performs a mathematical operation on it, and produces an output that is then passed on to the next layer.<br>
 
 we have a neural network with three layers: an input layer, a hidden layer, and an output layer.<br>
+  <br>
 <b>Input Layer:</b> The input layer consists of four neurons that receive the input data in the given picture below. Each neuron represents a feature or attribute of the input.<br>
+  <br>
 <b>Hidden Layer:</b> The hidden layer, in this case, consists of three neurons. These neurons perform calculations based on the input data and apply mathematical transformations to produce intermediate representations.<br>
+  <br>
 <b>Output Layer:</b> The output layer consists of one neurons that produce the final output of the neural network. These neurons combine the information from the hidden layer and generate the desired output.<br>
   
 <img src="https://github.com/bilyatch/Machine_Learning/assets/104844487/679f1d8f-a737-44f5-934b-bead0598649c">
