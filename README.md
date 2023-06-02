@@ -316,6 +316,11 @@ Fine-tuning and Optimization: Fine-tuning techniques, such as regularization and
 
 By repeatedly adjusting the network's parameters based on the training data, the neural network learns to recognize visual patterns and becomes capable of accurately identifying images from different classes.<br>
 
+ In the given fig. below it has given the steps for detecting the face:<br>
+<img src="https://github.com/bilyatch/Machine_Learning/assets/104844487/fa1ae1b1-4ba9-4c63-9c09-d76f332c992e">
+  <br>
+  
+
 
   
   
