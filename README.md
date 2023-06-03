@@ -320,6 +320,13 @@ By repeatedly adjusting the network's parameters based on the training data, the
 <img src="https://github.com/bilyatch/Machine_Learning/assets/104844487/fa1ae1b1-4ba9-4c63-9c09-d76f332c992e">
   <br>
   
+  
+  <h3>Notation of complex neural network</h3>
+  <img src="https://github.com/bilyatch/Machine_Learning/assets/104844487/896901d3-6a34-43a2-b3a7-285e7045cab6", height="200",width="400">
+  <br>
+  
+
+  
 
 
   
