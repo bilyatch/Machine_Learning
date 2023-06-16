@@ -331,6 +331,9 @@ By repeatedly adjusting the network's parameters based on the training data, the
    AI actually includes two very different things. One is ANI which stands for artificial narrow intelligence. This is an AI system that does one thing, a narrow task, sometimes really well and can be incredibly valuable, such as the smart speaker or self-driving car or web search, or AI applied to specific applications such as farming or factories. ANI is a subset of AI, the rapid progress in ANI makes it logically true that AI has also made tremendous progress in the last decade. There's a different idea in AI, which is AGI, artificial general intelligence. There's hope of building AI systems that could do anything a typical human can do.<br>
    <img src="https://github.com/bilyatch/Machine_Learning/assets/104844487/2f5f9537-a689-4f5a-8eb5-47f179e39287">
 
+   <h3>Model training steps</h3>
+   <img src="https://github.com/bilyatch/Machine_Learning/assets/104844487/ffb71b7d-6aae-4e68-b781-e28d25a2ffee">
+   
 
   
 
