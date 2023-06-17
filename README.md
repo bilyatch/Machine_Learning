@@ -342,6 +342,14 @@ By repeatedly adjusting the network's parameters based on the training data, the
    <img src="https://github.com/bilyatch/Machine_Learning/assets/104844487/9be3af1b-2593-46ea-b31d-e709e53d90b7">
     A ReLU is most often used because it is faster to train compared to the sigmoid. This is because the ReLU is only flat on one side (the left side) whereas the sigmoid goes flat (horizontal, slope approaching zero) on both sides of the curve.
    
+   <h3>Improved implementation of softmax</h3>
+   for the higher accuracy
+   <img src="https://github.com/bilyatch/Machine_Learning/assets/104844487/b6124d3d-cbf0-4036-aa57-0fddc51f6a85">
+   <img src="https://github.com/bilyatch/Machine_Learning/assets/104844487/26f64d52-081a-412e-89b4-90aa0063d26f">
+   <img src="https://github.com/bilyatch/Machine_Learning/assets/104844487/ffdb4579-d0d5-450e-858f-a1d1d14fc886">
+
+
+   
 
 
 
