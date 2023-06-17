@@ -340,6 +340,7 @@ By repeatedly adjusting the network's parameters based on the training data, the
    
    <h3>Choosing activation function</h3>
    <img src="https://github.com/bilyatch/Machine_Learning/assets/104844487/9be3af1b-2593-46ea-b31d-e709e53d90b7">
+    A ReLU is most often used because it is faster to train compared to the sigmoid. This is because the ReLU is only flat on one side (the left side) whereas the sigmoid goes flat (horizontal, slope approaching zero) on both sides of the curve.
    
 
 
