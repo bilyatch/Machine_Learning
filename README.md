@@ -338,6 +338,9 @@ By repeatedly adjusting the network's parameters based on the training data, the
    <h3>example of activation function</h3>
    <img src="https://github.com/bilyatch/Machine_Learning/assets/104844487/156b7c0b-3f46-4b9c-a079-d7e532d2151c">
    
+   <h3>Choosing activation function</h3>
+   <img src="https://github.com/bilyatch/Machine_Learning/assets/104844487/9be3af1b-2593-46ea-b31d-e709e53d90b7">
+   
 
 
 
