@@ -348,6 +348,11 @@ By repeatedly adjusting the network's parameters based on the training data, the
    <img src="https://github.com/bilyatch/Machine_Learning/assets/104844487/26f64d52-081a-412e-89b4-90aa0063d26f">
    <img src="https://github.com/bilyatch/Machine_Learning/assets/104844487/ffdb4579-d0d5-450e-858f-a1d1d14fc886">
 
+   <h3>advanced optimization</h3>
+   <img src="https://github.com/bilyatch/Machine_Learning/assets/104844487/3c4dc4eb-48b2-400c-93ba-2b14b89bccad">
+   
+
+
 
    
 
