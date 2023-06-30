@@ -350,6 +350,13 @@ By repeatedly adjusting the network's parameters based on the training data, the
 
    <h3>advanced optimization</h3>
    <img src="https://github.com/bilyatch/Machine_Learning/assets/104844487/3c4dc4eb-48b2-400c-93ba-2b14b89bccad">
+
+   <h3>
+   Debugging a learning algorithm
+   </h3>
+   <img src="https://github.com/bilyatch/Machine_Learning/assets/104844487/f6ff99d8-7935-424c-908f-f0926d148c9b">
+
+
    
 
 
