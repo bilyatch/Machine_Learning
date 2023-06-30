@@ -356,6 +356,10 @@ By repeatedly adjusting the network's parameters based on the training data, the
    </h3>
    <img src="https://github.com/bilyatch/Machine_Learning/assets/104844487/f6ff99d8-7935-424c-908f-f0926d148c9b">
 
+<h3>
+ Neural Network Regularization
+</h3>
+<img src="https://github.com/bilyatch/Machine_Learning/assets/104844487/da1bd98a-8e73-4ff1-bc22-fe1ccdc339a9">
 
    
 
