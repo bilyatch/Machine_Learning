@@ -361,6 +361,11 @@ By repeatedly adjusting the network's parameters based on the training data, the
 </h3>
 <img src="https://github.com/bilyatch/Machine_Learning/assets/104844487/da1bd98a-8e73-4ff1-bc22-fe1ccdc339a9">
 
+<h3>Decision Tree Learning</h3>
+<b>Meausring Purity</b>
+<img src="https://github.com/bilyatch/Machine_Learning/assets/104844487/5bb62680-aaae-4502-aca5-b8af99d5532a">
+
+
    
 
 
