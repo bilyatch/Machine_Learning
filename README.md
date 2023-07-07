@@ -1,4 +1,4 @@
-![image](https://github.com/bilyatch/Machine_Learning/assets/104844487/ca4a8101-f979-4760-a3e5-63929d7f23fa)# Machine learning with scikit-learn keras & tenserflow
+# Machine learning with scikit-learn keras & tenserflow
 
 I'm gonna learn new thing related to ML and update you guys on a daily note
 
@@ -366,7 +366,9 @@ By repeatedly adjusting the network's parameters based on the training data, the
 <img src="https://github.com/bilyatch/Machine_Learning/assets/104844487/5bb62680-aaae-4502-aca5-b8af99d5532a">
 
 <h3> choosing a split</h3>
-   <img src="https://github.com/bilyatch/Machine_Learning/">
+   <img src="https://github.com/bilyatch/Machine_Learning/assets/104844487/ca4a8101-f979-4760-a3e5-63929d7f23fa">
+   <img src="https://github.com/bilyatch/Machine_Learning/assets/104844487/f1bea296-2f39-4359-9df0-0e0cbe3f43a2">
+
 
    
 
