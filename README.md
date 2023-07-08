@@ -373,6 +373,8 @@ By repeatedly adjusting the network's parameters based on the training data, the
    <img src="https://github.com/bilyatch/Machine_Learning/assets/104844487/712d28f0-4d6d-45a5-9782-ccda1288e329">
    <img src="https://github.com/bilyatch/Machine_Learning/assets/104844487/9a28c050-4d88-4531-86cc-57b5d9cbbc31">
    <img src="https://github.com/bilyatch/Machine_Learning/assets/104844487/a8bc8cc7-6bb6-4b51-873d-a9dbb64f3565">
+   <img src="https://github.com/bilyatch/Machine_Learning/assets/104844487/422f474d-bd35-4af3-bb8b-ff4ce0120df5">
+
 
 
    
