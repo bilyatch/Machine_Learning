@@ -370,7 +370,7 @@ By repeatedly adjusting the network's parameters based on the training data, the
    <img src="https://github.com/bilyatch/Machine_Learning/assets/104844487/f1bea296-2f39-4359-9df0-0e0cbe3f43a2">
 
    <h3> Decision tree learning</h3>
-   <img src="(https://github.com/bilyatch/Machine_Learning/assets/104844487/712d28f0-4d6d-45a5-9782-ccda1288e329)">
+   <img src="https://github.com/bilyatch/Machine_Learning/assets/104844487/712d28f0-4d6d-45a5-9782-ccda1288e329">
 
 
 
