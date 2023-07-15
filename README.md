@@ -375,6 +375,11 @@ By repeatedly adjusting the network's parameters based on the training data, the
    <img src="https://github.com/bilyatch/Machine_Learning/assets/104844487/a8bc8cc7-6bb6-4b51-873d-a9dbb64f3565">
    <img src="https://github.com/bilyatch/Machine_Learning/assets/104844487/422f474d-bd35-4af3-bb8b-ff4ce0120df5">
 
+   <h3> K mean</h3>
+   <img src="https://github.com/bilyatch/Machine_Learning/assets/104844487/fb3d92fe-1dec-40c5-98d8-059f845cca63">
+   
+
+
 
 
    
