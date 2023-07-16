@@ -385,6 +385,7 @@ By repeatedly adjusting the network's parameters based on the training data, the
    
 <h3> Anomaly Detection algorithm</h3>
 <img src="https://github.com/bilyatch/Machine_Learning/assets/104844487/c43181c7-5d2c-464d-87ee-be6a7a45a9be">
+<img src="https://github.com/bilyatch/Machine_Learning/assets/104844487/f7db3b9d-4a2c-4808-a254-23891a120385">
 
 
 
