@@ -377,7 +377,14 @@ By repeatedly adjusting the network's parameters based on the training data, the
 
    <h3> K mean</h3>
    <img src="https://github.com/bilyatch/Machine_Learning/assets/104844487/fb3d92fe-1dec-40c5-98d8-059f845cca63">
+
+   <h3>Gaussian(normal) Distribution</h3>
+   <img src="https://github.com/bilyatch/Machine_Learning/assets/104844487/f5cc9e87-6f93-46c0-bd59-bd58e74c5c05">
+   for different sigma and different Mu value the fig is shown below:
+   <img src="https://github.com/bilyatch/Machine_Learning/assets/104844487/41238bbb-3fd3-4242-b49a-03a3f89ece56">
    
+
+
 
 
 
