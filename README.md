@@ -383,6 +383,9 @@ By repeatedly adjusting the network's parameters based on the training data, the
    for different sigma and different Mu value the fig is shown below:
    <img src="https://github.com/bilyatch/Machine_Learning/assets/104844487/41238bbb-3fd3-4242-b49a-03a3f89ece56">
    
+<h3> Anomaly Detection algorithm</h3>
+<img src="https://github.com/bilyatch/Machine_Learning/assets/104844487/c43181c7-5d2c-464d-87ee-be6a7a45a9be">
+
 
 
 
